@@ -6,12 +6,13 @@ header{
     height: 50px;
     
 }
-.container div{
+.latest-news-section{
     border-radius: 5px;
     background-color: white;
     padding: 10px;
-	height: 30%;
+	height: 200px;
 	margin-top: 20px;
+	width: 300px;
 }
 body{
     background-color: #f5f5f5;
@@ -26,9 +27,24 @@ img{
 .latest-news-article{
 	width: 30%;
 }
-.pictorial-news img{
+.pictorial-news-section img{
 	width: 200px;
 }
 h2,h3{
 	test-align: center;
+}
+.main-article{
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+	height: 400px;
+	width: 500px;
+	margin-top: 20px;
+}
+.pictorial-news-section{
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+	width: 300px;
+	margin-top: 20px;
 }
